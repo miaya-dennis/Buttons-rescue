@@ -18,6 +18,7 @@ body { background: #fff; font-family: "Nunito", sans-serif; }
   height: 28rem;
   object-fit: cover;
   border-radius: 0.75rem;
+}
 
 .urgent {
   border-left: 0.5rem solid #b42318;
